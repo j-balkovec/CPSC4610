@@ -1,0 +1,10 @@
+# Useless bs
+.DS_Store
+.idea
+__pycache__/
+
+# bytecode files
+*.pyc
+
+# zip files
+*.zip
