@@ -15,3 +15,6 @@ __pycache__/
 # testing
 *.solution
 *.test
+
+# logs
+*.log
