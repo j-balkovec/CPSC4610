@@ -8,3 +8,10 @@ __pycache__/
 
 # zip files
 *.zip
+
+# layouts
+*.lay
+
+# testing
+*.solution
+*.test
