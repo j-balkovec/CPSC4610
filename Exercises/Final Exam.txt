@@ -1,0 +1,35 @@
+Describing vs Explaining
+	- Description of a process, takes more effort and understanding
+
+Example:
+
+AI - use to solve intractable problems optimally (shortcut), find a good solution in a "short" period of time
+
+MDP & POMDP - introduce uncertainty, move from a plan to a policy with the notion of uncertainty
+
+2 key ideas: INTRACTABILITY & UNCERTAINTY
+
+RL - uncertainty in both current and next state
+
+Policy instead of plan due to lack of certainty and knowledge
+
+Regret - difference between what you expect vs what you get
+
+
+Algorithms for MABs
+- Greedy
+- Optimistic Greedy 
+- Epsilon Greedy (too much exploitation == optimistic greedy, explore too much and sampling gets expensive)
+- Upper Confidence Bound
+
+RL Cliff???
+
+QLEARNING - Big Tables, Excessive sampling, greedy --> does not learn from negative outcomes
+
+Alpha = learning rate, small alpha, small changes => slow convergence
+Minimize TD error | Regret
+
+MODEL FREE VS MODEL BASED IS NOT ON THE EXAM, but can be useful
+
+QUESTIONS:
+- Compare and Contrast (cost, benefits, difference, similarity)
